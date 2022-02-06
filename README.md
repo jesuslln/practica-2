@@ -1,2 +1,2 @@
 # practica-2
-practica 2 de PAT
+Second project : Developing a website using only html.
